@@ -1,3 +1,5 @@
+update: Non-MILP Algorithmic scheduler has taken over MILP approach
+
 # UMHA_WarmupScheduler
 A Mixed Integer Linear Programming approach to generating a warmup schedule for UMHA; Non-MILP Scheduler included as an alternative
 
